@@ -79,8 +79,8 @@ ${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
 
 </details>
 
- <br>
-
+<br>
+<p align="center">
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c34425aa-cccb-480b-b7d7-d920749ae470" />
 
 
