@@ -90,16 +90,21 @@ ${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
 <br>
 
 <p align="center">
+<a href="https://yourlocalellernate.atabook.org">
+<picture>
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/63afbd69-7c48-45c0-b3bb-e521a6d96791" />
+</picture>
+</a>
+ 
+<br>
+
+<p align="center">
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c34425aa-cccb-480b-b7d7-d920749ae470" />
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
-<a href="https://yourlocalellernate.atabook.org">
-<picture>
-<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/63afbd69-7c48-45c0-b3bb-e521a6d96791" />
-</picture>
-</a>
+
 
 
 
