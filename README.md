@@ -1,4 +1,3 @@
-<span style="color: #86664E; font-size: 8px; font-family: sans-serif;">text</span>
 
 <br>
 
@@ -22,8 +21,11 @@ ${{\color{#86664E}\tiny{\textsf{i dont mind sexual jokes unless you repeat those
 
 ${{\color{#86664E}\tiny{\textsf{i get overwelmed sometimes when i talk to many people at the same time.}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{please be patient with me goddamn.}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{please be patient with me goddamn. i dislike those who rush me}}}}$ <br>
 
+${{\color{#86664E}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{discord, pinterest, tiktok, etc.}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{and my email i guess?? just dont send weird mails. ellernate2012mayday@yahoo.com}}}}$ <br>
 <br>
 
 <div align="left"> <details>
