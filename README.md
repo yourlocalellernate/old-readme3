@@ -60,18 +60,17 @@ ${{\color{#86664E}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 <br>
 
 <div align="left"> <details>
-<summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/9320903b-7185-4be8-a5db-c5a1b39bdc3d" /></picture>${{\color{#86664E}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎 + 𝘿𝙉𝙄}}}}$</summary>
+<summary><picture><img width="130" height="100" alt="image" src="https://github.com/user-attachments/assets/be5d9783-1ee3-4bb5-aa31-528224e61fa7" /></picture>${{\color{#86664E}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎 + 𝘿𝙉𝙄}}}}$</summary>
 <br>
 
 <p align="left">
 
 ${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
 
-<br>
-
-</details>
+</details> 
 
 <br>
+
 <p align="center">
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c34425aa-cccb-480b-b7d7-d920749ae470" />
 
