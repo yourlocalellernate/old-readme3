@@ -15,13 +15,14 @@ ${{\color{#86664E}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$
 <p align="left">
 ${{\color{#86664E}\tiny{\textsf{english speaker.}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{i dont mind sexual jokes unless you repeat those or its ur fuckass whole personality }}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{i dont mind sexual jokes unless you repeat those or its ur fuckass whole personality. }}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{i get overwelmed sometimes when i talk to many people at the same time.}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{idk}}}}$ <br>
+
+${{\color{#86664E}\tiny{\textsf{please be patient with me goddamn.}}}}$ <br>
 
 
-<div align="left"> <details open>
-<summary>${{\color{#86664E}\huge{\textsf{other… (click to hide.)}}}}$</summary>
+<div align="left"> <details>
+<summary>${{\color{#86664E}\huge{\textsf{mental stuff…}}}}$</summary>
 <br>
 <p align="left">
 ${{\color{#86664E}\normalsize{\textsf{rapid mood swing}}}}$ <br>
