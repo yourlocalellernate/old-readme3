@@ -20,6 +20,7 @@ ${{\color{#86664E}\tiny{\textsf{i get overwelmed sometimes when i talk to many p
 
 ${{\color{#86664E}\tiny{\textsf{please be patient with me goddamn.}}}}$ <br>
 
+<br>
 
 <div align="left"> <details>
 <summary>${{\color{#86664E}\huge{\textsf{mental stuff…}}}}$</summary>
