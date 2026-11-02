@@ -1,12 +1,4 @@
-<img width="100" height="60" alt="image" src="https://github.com/user-attachments/assets/44b9bf81-0ddb-4b26-a8ac-31f9911e0b25" />
-
-
-work in progress!! sorry boii
-
-what does other people call their nonbinary partner or one that doesnt use both terms <br>
-do they call them nonfriend/personfriend? haha ok im so sorry this is so stupid
-
-wait im so sorry i found out about enbyfriend
+<br>
 
 <p align="center">
 <a href="https://hits.sh/github.com/yourlocalellernate/hits/"><img alt="Hits" src="https://hits.sh/github.com/yourlocalellernate/hits.svg?style=flat-square&label=vilicaleb%20yaoi...%20ok%20sorry&extraCount=243&color=37502d&labelColor=684d42"/></a>
