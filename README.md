@@ -26,6 +26,7 @@ ${{\color{#86664E}\tiny{\textsf{please be patient with me goddamn.}}}}$ <br>
 
 <div align="left"> <details>
 <summary>${{\color{#86664E}\huge{\textsf{mental stuff…}}}}$</summary>
+ 
 <br>
 <p align="left">
 ${{\color{#86664E}\normalsize{\textsf{rapid mood swing}}}}$ <br>
@@ -39,6 +40,7 @@ ${{\color{#86664E}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
 ${{\color{#86664E}\normalsize{\textsf{overthinking}}}}$ <br>
  
 ${{\color{#86664E}\normalsize{\textsf{suspected depression}}}}$ <br>
+<br>
 
 </details>
 
@@ -57,6 +59,18 @@ ${{\color{#86664E}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
 ${{\color{#86664E}\normalsize{\textsf{extrovert}}}}$ <br>
 ${{\color{#86664E}\normalsize{\textsf{hii the names is isaac/hasper !! [drooling face]}}}}$ <br>
 ${{\color{#86664E}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
+
+<div align="left"> <details>
+<summary>${{\color{#86664E}\huge{\textsf{interests}}}}$</summary>
+
+<br>
+
+<p align="left">
+${{\color{#86664E}\normalsize{\textsf{wip}}}}$ <br>
+ 
+<br>
+
+</details>
 
 <hr>
 </details>
