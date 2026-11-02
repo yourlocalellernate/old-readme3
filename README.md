@@ -25,7 +25,7 @@ ${{\color{#86664E}\tiny{\textsf{please be patient with me goddamn. i dislike tho
 
 ${{\color{#86664E}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{discord, pinterest, tiktok, etc.}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{and my email i guess?? just dont send weird mails. ellernate2012mayday@yahoo.com}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{and my email i guess?? just dont send weird mails. ellernate2012mayday@yahoo}}}}$ <br>
 <br>
 
 <div align="left"> <details>
