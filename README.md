@@ -82,7 +82,7 @@ ${{\color{#86664E}\normalsize{\textsf{wip}}}}$ <br>
 <br>
 
 <div align="left"> <details>
-<summary><picture><img width="130" height="100" alt="image" src="https://github.com/user-attachments/assets/be5d9783-1ee3-4bb5-aa31-528224e61fa7" /></picture>${{\color{#86664E}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎 + 𝘿𝙉𝙄}}}}$</summary>
+<summary><picture><img width="130" height="100" alt="image" src="https://github.com/user-attachments/assets/be5d9783-1ee3-4bb5-aa31-528224e61fa7" /></picture>${{\color{#86664E}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘿𝙉𝙄}}}}$</summary>
 <br>
 
 <p align="left">
