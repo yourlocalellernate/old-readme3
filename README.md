@@ -24,7 +24,7 @@ ${{\color{#86664E}\tiny{\textsf{i get overwelmed sometimes when i talk to many p
 ${{\color{#86664E}\tiny{\textsf{please be patient with me goddamn. i dislike those who rush me}}}}$ <br>
 
 ${{\color{#86664E}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{discord, pinterest, tiktok, etc.}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
 
 <br>
 
