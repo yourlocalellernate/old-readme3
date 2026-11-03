@@ -115,6 +115,18 @@ ${{\color{#86664E}\tiny{\textsf{homophobic}}}}$ <br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
+<div align="left"> <details>
+<summary>${{\color{#86664E}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 art}}}}$</summary>
+ 
+<br>
+
+
+<p align="left">
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/eb975a0d-3c81-42dd-aff1-0a9be8277cde" />
+
+</details> 
+
+
 
 
