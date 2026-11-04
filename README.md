@@ -64,12 +64,12 @@ ${{\color{#86664E}\normalsize{\textsf{extrovert}}}}$ <br>
 ${{\color{#86664E}\normalsize{\textsf{hii the names is isaac/hasper !! [drooling face]}}}}$ <br>
 ${{\color{#86664E}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
 
-<div align="left"> <details>
+<div align="right"> <details>
 <summary>${{\color{#86664E}\huge{\textsf{interests}}}}$</summary>
 
 <br>
 
-<p align="left">
+<p align="right">
 ${{\color{#86664E}\normalsize{\textsf{wip}}}}$ <br>
  
 <br>
