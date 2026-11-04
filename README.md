@@ -1,11 +1,5 @@
 
 
-changing the theme,
-
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/139696a7-7302-4b5b-b110-01c7b7078d56" />
-
-
-
 <br>
 
 <p align="center">
